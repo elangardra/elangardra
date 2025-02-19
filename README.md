@@ -1,6 +1,6 @@
 <h1 align="left"> My name is Elang Ardra Angkawijaya and I'm a Data Science Enthusiast
 <h2 align="left">About me</h2>
-<p align="left">✨ Creating data-driven insights<br>📚 I'm currently learning cloud computing and machine learning<br>🎯 Goals: Contribute to impactful projects in Data Science, Machine Learning, and AI<br>🎲 Fun fact: I enjoy designing attractive event posters and engaging videos</p>
+<p align="left">✨ Creating data-driven insights<br>📚 I'm currently learning cloud computing and machine learning<br>🎯 Goals: Contribute to impactful projects in Data Science, Machine Learning, and AI<br>
 <h2 align="left">Connect with me</h2>
 <div align="left">
  
